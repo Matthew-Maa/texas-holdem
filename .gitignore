@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 背景音乐：版权原因不入库，自行放入 music/
+music/*.mp3
+music/*.wav
+music/*.ogg
+
+# 日志
+*.log
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# 运行时设置（首次运行自动生成）
+config.json
